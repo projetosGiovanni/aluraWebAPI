@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaAPIClient", "LojaAPIClient\LojaAPIClient.csproj", "{6F2C228F-3C41-45F9-B63E-9C23E4AF5CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaAPI", "LojaAPI\LojaAPI\LojaAPI.csproj", "{A724E76C-55B8-4778-B439-28E09AA92BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2C228F-3C41-45F9-B63E-9C23E4AF5CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2C228F-3C41-45F9-B63E-9C23E4AF5CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2C228F-3C41-45F9-B63E-9C23E4AF5CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2C228F-3C41-45F9-B63E-9C23E4AF5CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A724E76C-55B8-4778-B439-28E09AA92BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724E76C-55B8-4778-B439-28E09AA92BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724E76C-55B8-4778-B439-28E09AA92BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724E76C-55B8-4778-B439-28E09AA92BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
